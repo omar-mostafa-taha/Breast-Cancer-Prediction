@@ -13,3 +13,5 @@ The model with feature selection achieved a F1 score of 0.96 on the training set
 
 ## Conclusion:
 In conclusion, this project demonstrates the effectiveness of machine learning algorithms in predicting the type of breast mass. Early detection of breast cancer is critical, and this model can potentially aid medical professionals in making accurate diagnoses.
+
+### You can view the notebook on kaggle through: https://www.kaggle.com/code/omarmostafataha/breast-cancer-prediction-f1-0-99-auc-0-99
